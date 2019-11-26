@@ -1,1 +1,1 @@
-#Aplikace pro školy
+# Aplikace pro školy
